@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DistribucionApp</string>
+    <string name="default_web_client_id">1003813530823-jr62at7o3thvd9cv1d0ombhbp7mevas4.apps.googleusercontent.com</string>
+    <string name="title_activity_menu">MenuActivity</string>
+</resources>

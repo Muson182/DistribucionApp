@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1003813530823",
+    "firebase_url": "https://distribucionapp-a3841-default-rtdb.firebaseio.com",
+    "project_id": "distribucionapp-a3841",
+    "storage_bucket": "distribucionapp-a3841.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003813530823:android:cfd2a29b9eb9a793bc22e2",
+        "android_client_info": {
+          "package_name": "com.distribucion.distribucionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003813530823-j84hcn138i3omqi9atcqv6fomufdcaho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.distribucion.distribucionapp",
+            "certificate_hash": "c0aed03d6297e59512af4f45ca8f6a4ed28eba90"
+          }
+        },
+        {
+          "client_id": "1003813530823-jr62at7o3thvd9cv1d0ombhbp7mevas4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT18yo_EfORYeWZnpRxzT8ImIQrPAC6Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003813530823-jr62at7o3thvd9cv1d0ombhbp7mevas4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
